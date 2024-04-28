@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohammadammar.netlify.app/](https://mohammadammar.netlify.app/)
 
-- 📫  **Avaiable in social media**
+- 📫  **Available in social media**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
