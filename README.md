@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarcse50&label=Profile%20views&color=0e75b6&style=flat" alt="ammarcse50" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarcse50" alt="ammarcse50" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://mohammadammar.netlify.app/](https://mohammadammar.netlify.app/)
-
 - 📫  **Available in social media**
 
 <h3 align="left">Connect with me:</h3>
