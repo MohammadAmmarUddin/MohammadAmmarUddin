@@ -5,7 +5,7 @@
 <h1 align="center">👋 It's Mohammad Ammar Uddin</h1>
 <h3 align="center">Web Developer || Problem Solver</h3> 
 
-## **About Me: <img src="./Assets/about-me.gif" width="40">**
+## **About Me: <img src="./assets/about-me.gif" width="40">**
 
 Hi, I’m **Mohammad Ammar Uddin**, a passionate **software developer**  with a knack for solving complex problems and building scalable solutions. I specialize in **full-stack development** and have a strong foundation in **data structures, algorithms, and system design**.  
 
@@ -52,7 +52,7 @@ Feel free to explore my work and connect with me:
 
 I’m always open to new opportunities, collaborations, and conversations. Let’s build something amazing together! 🚀  
 
-<h2>Github Stats: <img src="./Assets/stat.gif" width="40"></h2>
+<h2>Github Stats: <img src="./assets/stat.gif" width="40"></h2>
 <div align="center">
   <a href="https://github.com/ammarcse50">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammarcse50&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
