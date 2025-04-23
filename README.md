@@ -53,11 +53,10 @@ Feel free to explore my work and connect with me:
 I’m always open to new opportunities, collaborations, and conversations. Let’s build something amazing together! 🚀  
 
 <h2>Github Stats: <img src="./Assets/stat.gif" width="40"></h2>
-
 <div align="center">
   <a href="https://github.com/ammarcse50">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammarcse50&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcse50&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br/>
   
