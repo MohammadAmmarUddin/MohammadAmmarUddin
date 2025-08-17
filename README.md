@@ -1,5 +1,5 @@
 <div align="center">
- <img align="center"  width="800"  src="./assets/banner.jpg">
+ <img align="center"  width="800"  src="./assets/banner.png">
 </div>
 <br/>
 <h1 align="center">👋 It's Mohammad Ammar Uddin</h1>
