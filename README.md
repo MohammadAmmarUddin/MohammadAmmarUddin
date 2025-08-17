@@ -3,7 +3,7 @@
 </div>
 <br/>
 <h1 align="center">👋 It's Mohammad Ammar Uddin</h1>
-<h3 align="center">Web Developer || Problem Solver</h3> 
+<h3 align="center">Software Developer || Problem Solver</h3> 
 
 ## **About Me: <img src="./assets/about-me.gif" width="40">**
 
