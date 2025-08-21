@@ -46,7 +46,7 @@ I have hands-on experience with a wide range of technologies, including:
 ## 🔗 **Let’s Connect!**  
 Feel free to explore my work and connect with me:  
 - **📧 Email**: [ammaruofficial@gmail.com](mailto:ammaruofficial@gmail.com)  
-- **📄 Resume**: [Link](https://drive.google.com/file/d/1-YU8ZZ00Ko7pXbaK5reEl9OZxUPDHMmR/view?usp=sharing)  
+- **📄 Resume**: [Link](https://drive.google.com/file/d/1cS-z5TEXdwSaQFVGYuDlw39mLB2BksrE/view?usp=sharing)  
 - **👔 LinkedIn**: [Link](https://www.linkedin.com/in/mohammad-ammar-uddin/)  
 - **🧑‍💻 Codeforces**: [Link](https://codeforces.com/profile/Anonshell)  
 
