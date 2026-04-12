@@ -21,10 +21,19 @@ I have hands-on experience with a wide range of technologies, including:
 
 ---
 
-## 🏢 **Industry Experience**  
-- Integrated SMS APIs and built an async SMS Scheduler with DB locking, reducing message delivery conflicts by 90%..  
-- Gained deep expertise in RDBMS, focusing on transactions, concurrency, and data integrity across full-stack applications..  
-- Deployed and maintained apps using Docker, CapRover, and cloud/Linux environments, cutting deployment time by 50%..  
+## 🏢 **Industry Experience**
+
+**Junior Software Engineer** @ [ScaleBridger](https://scalebridger.com) *(April 2025 – Dec 2025)*
+- Built a production-grade OTA automation platform integrating Airbnb, Booking.com, Guesty, and Avantio APIs for real-time sync of reservations, availability, and pricing.
+- Developed scalable backend services with Express.js, MongoDB, TypeORM, and Redis, improving background job reliability and multi-channel data consistency.
+- Implemented secure authentication using Google OAuth, JWT, and RBAC; built real-time SSR dashboards with Next.js and WebSockets.
+- Integrated Stripe & CCAvenue and automated SMS/email workflows with Twilio and SendGrid.
+
+**Trainee Jr. Software Engineer** @ [Digital Lab](https://digitallab.com.bd) *(January 2025 – March 2025)*
+- Engineered scalable apps with Next.js, Prisma, and Redis, optimizing queries and caching for performance.
+- Built an async SMS scheduler with DB locking, reducing message delivery conflicts by 90%.
+- Developed strong expertise in RDBMS, focusing on transactions, concurrency, and data integrity.
+- Deployed apps using Docker, CapRover, and Linux servers, cutting deployment time by 50%.
 
 ---
 
