@@ -21,7 +21,7 @@ I have hands-on experience with a wide range of technologies, including:
 
 ---
 
-## 🏢 **Industry Experience**
+## 🏢 **Industry Experience 1+ Years**
 
 **Junior Software Engineer** @ [ScaleBridger](https://scalebridger.com) *(April 2025 – Dec 2025)*
 - Built a production-grade OTA automation platform integrating Airbnb, Booking.com, Guesty, and Avantio APIs for real-time sync of reservations, availability, and pricing.
