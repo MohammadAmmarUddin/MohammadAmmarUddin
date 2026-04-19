@@ -2,7 +2,7 @@
  <img align="center"  width="800"  src="./assets/banner.png">
 </div>
 <br/>
-<h1 align="center">👋 It's Mohammad Ammar Uddin</h1>
+<h1 align="center">I'm Mohammad Ammar Uddin</h1>
 <h3 align="center">Software Developer || Problem Solver || Cybersecurity Enthusiast</h3> 
 
 ## **About Me: <img src="./assets/about-me.gif" width="40">**
