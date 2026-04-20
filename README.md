@@ -8,8 +8,8 @@
 ## **About Me: <img src="./assets/about-me.gif" width="40">**
 
 Hi, I’m Mohammad Ammar Uddin, a passionate Full Stack Developer who enjoys solving complex problems and building scalable solutions.
-
 With a strong foundation in data structures, algorithms, and system design, I build efficient, reliable, and production-ready applications.
+
 ---
 
 ## 💻 **Technical Skills**  
