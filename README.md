@@ -3,12 +3,13 @@
 </div>
 <br/>
 <h1 align="center">I'm Mohammad Ammar Uddin</h1>
-<h3 align="center">Software Developer || Problem Solver || Tech Enthusiast</h3> 
+<h3 align="center">Full Stack Developer| Backend Engineer ⚙️ | System Design Enthusiast </h3> 
 
 ## **About Me: <img src="./assets/about-me.gif" width="40">**
 
-Hi, I’m **Mohammad Ammar Uddin**, a passionate **software developer**  with a knack for solving complex problems and building scalable solutions. I specialize in **full-stack development** and have a strong foundation in **data structures, algorithms, and system design**.  
+Hi, I’m Mohammad Ammar Uddin, a passionate Full Stack Developer who enjoys solving complex problems and building scalable solutions.
 
+With a strong foundation in data structures, algorithms, and system design, I build efficient, reliable, and production-ready applications.
 ---
 
 ## 💻 **Technical Skills**  
